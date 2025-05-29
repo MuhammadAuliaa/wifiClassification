@@ -1,0 +1,5 @@
+wifi classification with 4 models:
+- SVM
+- GaussianNB
+- RandomForest
+- KNN
