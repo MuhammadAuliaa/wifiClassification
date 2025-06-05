@@ -1,2 +1,13 @@
-meeting 22 mei:
-- 
+wifi classification with 4 models:
+- SVM
+- GaussianNB
+- RandomForest
+- KNN
+
+label encoder: 
+- one-hot (mackonversi)
+- binary encoding (mackonversi)
+
+goals:
+- percobaan untuk memaksimalkan evaluasi dan testing walau hasilnya tidak sesuai ekspektasi
+- ada bukti percobaan dari ketidaksesuaian ekspektasi
